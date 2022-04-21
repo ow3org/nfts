@@ -7,6 +7,9 @@ The easiest way to integrate NFTs into your application.
 This cross-framework (React, Vue, Svelte, Angular, etc.) component library is compatible for the following features:
 
 - `<nft />`
+- `<collection />`
+- `<launch-pad />`
+- `<nft-staking />`
 
 Read more about these features in their respective [docs](https://meema.xyz/docs).
 
