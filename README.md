@@ -19,6 +19,7 @@ It's incredibly easy to use a Web Components within your own project. Check out 
 <collection candy-machine-id="CMhtpchN7u1EQuGQRwvEbpGYqVZ9338mdzyLeJdido1t"></collection>
 <nft mint-address="7A6cbN1WzUvXoXpam32Dj3JoVbGXPyRZqjRpheDsTD2q" />
 <launch-pad />
+<nft-staking />
 
 <!-- optional props -->
 <nft mint-address="..." width="400" />
