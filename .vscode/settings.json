@@ -1,0 +1,23 @@
+{
+  "cSpell.words": [
+    "meema",
+    "meemalabs",
+    "pnpm",
+    "degit",
+    "vitest",
+    "vitejs",
+    "vite",
+    "unplugin",
+    "vueuse",
+    "vue-demi",
+    "prefetch",
+    "destructurable",
+    "pausable",
+    "antfu",
+    "vitebook"
+  ],
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  }
+}
