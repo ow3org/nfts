@@ -44,7 +44,7 @@
     "@vitebook/markdown-vue": "0.23.6",
     "@vitebook/theme-default": "0.23.6",
     "@vitebook/vue": "0.23.6",
-    "@vitejs/plugin-vue": "2.3.1",
+    "@vitejs/plugin-vue": "3.0.1",
     "@vue/compiler-sfc": "3.2.33",
     "autoprefixer": "10.4.4",
     "cypress": "9.5.4",
