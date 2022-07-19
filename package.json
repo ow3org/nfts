@@ -47,7 +47,7 @@
     "@vitejs/plugin-vue": "2.3.1",
     "@vue/compiler-sfc": "3.2.33",
     "autoprefixer": "10.4.4",
-    "cypress": "9.5.4",
+    "cypress": "10.3.1",
     "eslint": "8.13.0",
     "eslint-plugin-cypress": "2.12.1",
     "https-localhost": "4.7.1",
